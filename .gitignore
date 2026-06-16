@@ -1,0 +1,11 @@
+credentials.json
+
+__pycache__/
+.pytest_cache/
+
+allure-results/
+allure-report/
+
+*.xlsx
+*.rar
+*.zip
